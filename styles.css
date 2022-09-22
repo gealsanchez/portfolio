@@ -7,13 +7,9 @@
   height: 100vh;
 }
 
-;
-
 .icon {
   height: 70px;
 }
-
-;
 
 .name {
   background-color: blueviolet;
@@ -21,8 +17,6 @@
   width: 220px;
   height: 100px;
 }
-
-;
 
 .profile {
   background-color: aqua;
@@ -34,5 +28,3 @@
 .leftmargin {
   margin: 16px;
 }
-
-;
