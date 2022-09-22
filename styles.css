@@ -10,6 +10,18 @@
 }
 .icon { height: 70px; }
 
+.navigation{
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  height: 30px;
+  display: flex;
+  align-self: center;
+  opacity: .6;
+}
+
 .name {
   display: flex;
   align-self: center;
