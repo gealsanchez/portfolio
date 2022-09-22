@@ -4,14 +4,16 @@
   flex-wrap: wrap;
   border: 10px solid blue;
   width: 320px;
-  height: 100vh
+  height: 100vh;
 }
 .icon { height: 70px; }
+
 .name {
   background-color: blueviolet;
   font-size: 50px;
   width: 220px;
   height: 100px;
+  
 }
 .profile {
   background-color: aqua;
