@@ -20,7 +20,7 @@
   height: 30px;
   display: flex;
   align-self: center;
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .name {
@@ -42,7 +42,6 @@
 }
 
 .profile {
-
   font-family: 'Poppins', sans-serif;
   color: white;
   display: flex;
