@@ -10,7 +10,7 @@
 }
 .icon { height: 70px; }
 
-.navigation{
+.navigation {
   display: flex;
   justify-content: space-between;
 }
@@ -19,7 +19,7 @@
   height: 30px;
   display: flex;
   align-self: center;
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .name {
