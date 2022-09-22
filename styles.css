@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Poppins:wght@600;800&display=swap');
+
 .container {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
-  border: 10px solid black;
   border-radius: 2%;
-  width: 320px;
+  width: 375px;
   height: 100vh;
   background-color: black;
 }
@@ -12,39 +12,69 @@
 
 .navigation {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  background-color: rgb(34, 33, 33);
 }
 
 .menu {
   height: 30px;
   display: flex;
   align-self: center;
-  opacity: 0.6;
+  opacity: .6;
 }
 
 .name {
-  display: flex;
-  align-self: center;
+  margin-top: 20%;
   color: orange;
-  font-size: 40px;
+  font-size: 46px;
   width: 70%;
   height: 100px;
+  font-family: 'Crete Round', serif;
+  font-weight: lighter;
+  margin-bottom: 5%;
 }
 
 .title {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  display: flex;
   font-size: 20px;
-  align-self: center;
   color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
 }
 
 .profile {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  font-family: 'Poppins', sans-serif;
   color: white;
   display: flex;
-  align-self: center;
   width: 90%;
   height: 126px;
   font-size: 16px;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.name,
+.title,
+.profile {
+  padding-left: 5%;
+  margin-bottom: 5%;
+}
+
+.links {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  margin-left: 15%;
+}
+
+.image {
+  width: 40%;
+  margin-top: -20%;
+  margin-left: auto;
 }
