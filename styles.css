@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Poppins:wght@200;300;400;500;600;800&display=swap');
 
+body { margin: 0%; }
+
 .container {
   display: flex;
   flex-direction: column;
