@@ -20,13 +20,14 @@ body { margin: 0%; }
 }
 .list { padding-left: 0%; }
 
-.icon { 
-  height: 20px; 
+.icon {
+  height: 20px;
   align-self: center;
   justify-items: center;
-  padding-right: 20%;}
+  padding-right: 20%;
+}
 
-.center { 
+.center {
   display: flex;
   justify-content: center;
   padding-right: 10%;
@@ -59,11 +60,6 @@ li {
   width: 90%;
   align-self: center;
 }
-
-fsizeabout { 
-  font-size: 32px;
-  line-height: 44px;
- }
 
 .sizetitle {
   font-size: 56px;
