@@ -145,18 +145,18 @@ button:hover {
 
 .buttoncolorsa {
   height: 50%;
-  background-color: #FFFFFF;
-  border: 1px solid #8993A4;
-  color: #091E42;
+  background-color: #ffffff;
+  border: 1px solid #8993a4;
+  color: #091e42;
   margin-left: 5%;
 }
 
 .buttoncolorsb {
   height: 80%;
   width: 40%;
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   border: none;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 800;
   padding: 12px;
   display: inline-block;
@@ -171,15 +171,15 @@ button:hover {
   height: 100%;
   background-color: rgb(108, 122, 137, 0.5);
   border: none;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 500;
   margin-left: 5%;
 }
 
 .buttoncolorsd {
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   border: none;
-  color: #FFFFFF;
+  color: #ffffff;
   width: 87.3%;
   font-weight: 800;
   padding: 12px 0%;
@@ -225,7 +225,7 @@ button:hover {
 .about {
   display: flex;
   flex-direction: column;
-  background-color: #1C1A19;
+  background-color: #1c1a19;
   padding-bottom: 40%;
   background-image: url("illustration-about-me-mobile.png");
   background-repeat: no-repeat;
@@ -233,7 +233,7 @@ button:hover {
 }
 
 .langframskills {
-  background-color: #1C1A19;
+  background-color: #1c1a19;
   width: 100%;
   align-self: center;
 }
@@ -257,10 +257,10 @@ button:hover {
 
 .finte { font-family: 'Inter', sans-serif; }
 
-.colortitle { color: #FFF5E1; }
+.colortitle { color: #fff5e1; }
 
-.colorname { color: #FF6B00; }
+.colorname { color: #ff6b00; }
 
-.colorprofile { color: #FFFFFF; }
+.colorprofile { color: #ffffff; }
 
-.colorbtitle { color: #1C1A19; }
+.colorbtitle { color: #1c1a19; }
